@@ -1,0 +1,279 @@
+﻿70701;Abfaltersbach
+70301;Absam
+70901;Achenkirch
+70702;Ainet
+70302;Aldrans
+70501;Alpbach
+70703;Amlach
+70303;Ampass
+70502;Angath
+70528;Angerberg
+70704;Anras
+70201;Arzl im Pitztal
+70902;Aschau im Zillertal
+70705;Assling
+70401;Aurach bei Kitzbühel
+70706;Außervillgraten
+70304;Axams
+70801;Bach
+70503;Bad Häring
+70305;Baumkirchen
+70802;Berwang
+70803;Biberwier
+70804;Bichlbach
+70306;Birgitz
+70903;Brandberg
+70504;Brandenberg
+70505;Breitenbach am Inn
+70805;Breitenwang
+70402;Brixen im Thale
+70506;Brixlegg
+70904;Bruck am Ziller
+70905;Buch in Tirol
+70707;Dölsach
+70508;Ebbs
+70907;Eben am Achensee
+70806;Ehenbichl
+70807;Ehrwald
+70808;Elbigenalp
+70307;Ellbögen
+70509;Ellmau
+70809;Elmen
+70510;Erl
+70601;Faggen
+70602;Fendels
+70403;Fieberbrunn
+70908;Finkenberg
+70603;Fiss
+70308;Flaurling
+70604;Fließ
+70605;Flirsch
+70810;Forchach
+70309;Fritzens
+70909;Fügen
+70910;Fügenberg
+70310;Fulpmes
+70708;Gaimberg
+70911;Gallzein
+70606;Galtür
+70912;Gerlos
+70913;Gerlosberg
+70311;Gnadenwald
+70404;Going am Wilden Kaiser
+70312;Götzens
+70812;Gramais
+70811;Grän
+70313;Gries am Brenner
+70314;Gries im Sellrain
+70607;Grins
+70315;Grinzens
+70317;Gschnitz
+70202;Haiming
+70914;Hainzenberg
+70354;Hall in Tirol
+70915;Hart im Zillertal
+70813;Häselgehr
+70318;Hatting
+70735;Heinfels
+70814;Heiterwang
+70815;Hinterhornbach
+70916;Hippach
+70405;Hochfilzen
+70816;Höfen
+70817;Holzgau
+70406;Hopfgarten im Brixental
+70709;Hopfgarten in Defereggen
+70203;Imst
+70204;Imsterberg
+70710;Innervillgraten
+70101;Innsbruck
+70319;Inzing
+70608;Ischgl
+70711;Iselsberg-Stronach
+70407;Itter
+70917;Jenbach
+70205;Jerzens
+70408;Jochberg
+70818;Jungholz
+70819;Kaisers
+70712;Kals am Großglockner
+70918;Kaltenbach
+70609;Kappl
+70206;Karres
+70207;Karrösten
+70713;Kartitsch
+70610;Kaunerberg
+70611;Kaunertal
+70612;Kauns
+70320;Kematen in Tirol
+70409;Kirchberg in Tirol
+70511;Kirchbichl
+70410;Kirchdorf in Tirol
+70411;Kitzbühel
+70322;Kolsass
+70323;Kolsassberg
+70412;Kössen
+70512;Kramsach
+70513;Kufstein
+70514;Kundl
+70613;Ladis
+70614;Landeck
+70208;Längenfeld
+70515;Langkampfen
+70325;Lans
+70714;Lavant
+70820;Lechaschau
+70715;Leisach
+70821;Lermoos
+70326;Leutasch
+70716;Lienz
+70516;Mariastein
+70327;Matrei am Brenner
+70717;Matrei in Osttirol
+70920;Mayrhofen
+70328;Mieders
+70209;Mieming
+70329;Mils
+70210;Mils bei Imst
+70211;Mötz
+70330;Mühlbachl
+70517;Münster
+70822;Musau
+70331;Mutters
+70823;Namlos
+70212;Nassereith
+70332;Natters
+70615;Nauders
+70333;Navis
+70824;Nesselwängle
+70334;Neustift im Stubaital
+70518;Niederndorf
+70519;Niederndorferberg
+70718;Nikolsdorf
+70719;Nußdorf-Debant
+70335;Oberhofen im Inntal
+70720;Oberlienz
+70336;Obernberg am Brenner
+70413;Oberndorf in Tirol
+70337;Oberperfuss
+70721;Obertilliach
+70213;Obsteig
+70214;Oetz
+70338;Patsch
+70339;Pettnau
+70616;Pettneu am Arlberg
+70340;Pfaffenhofen
+70825;Pfafflar
+70826;Pflach
+70341;Pfons
+70617;Pfunds
+70618;Pians
+70921;Pill
+70827;Pinswang
+70342;Polling in Tirol
+70723;Prägraten/Großvenediger
+70619;Prutz
+70520;Radfeld
+70922;Ramsau im Zillertal
+70343;Ranggen
+70521;Rattenberg
+70414;Reith bei Kitzbühel
+70344;Reith bei Seefeld
+70522;Reith im Alpbachtal
+70523;Rettenschöss
+70828;Reutte
+70620;Ried im Oberinntal
+70923;Ried im Zillertal
+70215;Rietz
+70345;Rinn
+70924;Rohrberg
+70216;Roppen
+70346;Rum
+70218;Sautens
+70348;Scharnitz
+70829;Schattwald
+70524;Scheffau am Wilden Kaiser
+70727;Schlaiten
+70925;Schlitters
+70349;Schmirn
+70350;Schönberg im Stubaital
+70622;Schönwies
+70926;Schwaz
+70927;Schwendau
+70418;Schwendt
+70525;Schwoich
+70623;See
+70351;Seefeld in Tirol
+70352;Sellrain
+70624;Serfaus
+70728;Sillian
+70219;Silz
+70353;Sistrans
+70220;Sölden
+70526;Söll
+70625;Spiss
+70621;St. Anton am Arlberg
+70724;St. Jakob in Defereggen
+70415;St. Jakob in Haus
+70725;St. Johann im Walde
+70416;St. Johann in Tirol
+70217;St. Leonhard im Pitztal
+70347;St. Sigmund im Sellrain
+70417;St. Ulrich am Pillersee
+70726;St. Veit in Defereggen
+70221;Stams
+70928;Stans
+70626;Stanz bei Landeck
+70830;Stanzach
+70831;Steeg
+70355;Steinach am Brenner
+70929;Steinberg am Rofan
+70930;Strass im Zillertal
+70729;Strassen
+70627;Strengen
+70931;Stumm
+70932;Stummerberg
+70832;Tannheim
+70222;Tarrenz
+70356;Telfes im Stubai
+70357;Telfs
+70933;Terfens
+70358;Thaur
+70527;Thiersee
+70731;Thurn
+70628;Tobadill
+70629;Tösens
+70359;Trins
+70732;Tristach
+70360;Tulfes
+70934;Tux
+70935;Uderns
+70223;Umhausen
+70361;Unterperfuss
+70733;Untertilliach
+70362;Vals
+70833;Vils
+70734;Virgen
+70365;Volders
+70364;Völs
+70936;Vomp
+70834;Vorderhornbach
+70419;Waidring
+70529;Walchsee
+70835;Wängle
+70366;Wattenberg
+70367;Wattens
+70937;Weer
+70938;Weerberg
+70836;Weißenbach am Lech
+70224;Wenns
+70420;Westendorf
+70939;Wiesing
+70368;Wildermieming
+70530;Wildschönau
+70531;Wörgl
+70630;Zams
+70940;Zell am Ziller
+70941;Zellberg
+70369;Zirl
+70837;Zöblen
